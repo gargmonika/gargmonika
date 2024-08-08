@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Monika</h1>
 <h3 align="center">A passionate coder 👩‍💻 and learner</h3>
 
+<!---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gargmonika&label=Profile%20views&color=0e75b6&style=flat" alt="gargmonika" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gargmonika" alt="gargmonika" style = "1px 1px 1px 1px"; /></a> </p>
@@ -25,7 +26,7 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/devmonika](www.linkedin.com/in/devmonika)
 
-- ⚡ Fun fact **I can crack some nice jokes😁😁😃**
+- ⚡ Fun fact **I can crack some nice jokes😁😁😃** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
